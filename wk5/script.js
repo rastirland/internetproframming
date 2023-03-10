@@ -17,25 +17,7 @@ function toggleTransparent() {
   }
   document.addEventListener('DOMContentLoaded', myLoadFunction);
 
-// function toggleTransparent() {
-//     const circle = document.getElementById('circle');
-//     circle.classList.toggle('transparent');
-//   }
-  
-//   function toggleP() {
-//     const p = document.getElementById('square');
-//     square.classList.toggle('transparent1');
-//   }
-  
-//   function myLoadFunction() {
-//     const circle = document.getElementById('circle');
-//     const square = document.getElementById('square');
-  
-//     circle.addEventListener('click', toggleTransparent);
-//     p.addEventListener('click', toggleP);
-//   }
-  
-//   document.addEventListener('DOMContentLoaded', myLoadFunction);
+
 
 
 
